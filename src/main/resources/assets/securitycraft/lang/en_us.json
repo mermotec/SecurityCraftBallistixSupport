@@ -1385,6 +1385,8 @@
 	"securitycraft.configuration.enable_team_ownership.tooltip": "Set this to true to enable every player on a scoreboard team (or FTB Teams party) to own the blocks of every other player on the same team.\nThis enables players on the same team to break each other's reinforced blocks, change options, add/remove modules, and have access to all other owner-restricted things.",
 	"securitycraft.configuration.force_reinforced_block_tint": "Force reinforced block tint",
 	"securitycraft.configuration.force_reinforced_block_tint.tooltip": "Set this to true if you want to force the setting of reinforced_block_tint for players.",
+	"securitycraft.configuration.frame_feed_render_distance": "Frame feed render distance",
+	"securitycraft.configuration.frame_feed_render_distance.tooltip": "Set the radius in which chunks viewed in a frame camera feed should load and render. If this config has a higher value than the \"Render Distance\" option or the \"view-distance\" server property, the smaller value is used instead.",
 	"securitycraft.configuration.incorrectPasscodeDamage": "Incorrect passcode damage",
 	"securitycraft.configuration.incorrectPasscodeDamage.tooltip": "Defines the damage that a block requiring a passcode deals to the player, if the player enters an incorrect code. This only works if a harming module is installed.\nDefault is two hearts of damage.",
 	"securitycraft.configuration.inventoryScannerRange": "Inventory Scanner range",
